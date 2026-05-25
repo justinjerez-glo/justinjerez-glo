@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Justin Jerez 🫡</h1>
 
 <h3 align="center">
-QA/QC Analyst @ Globant ✈️
+QA/QC Analyst / Iberia Academy ✈️
 </h3>
 
 <p align="center">
