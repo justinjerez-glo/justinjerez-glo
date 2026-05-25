@@ -35,9 +35,5 @@ QA/QC Analyst / Iberia Academy ✈️
 </p>
 
 <p align="center">
-
-<a href="https://slack.com/app_redirect?channel=justin.jerez">
-  <img src="https://img.shields.io/badge/Hablemos%20por%20Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-</a>
-
+  <img src="https://img.shields.io/badge/Slack-justin.jerez-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
